@@ -1,12 +1,65 @@
-IP��ַ,�˿�,TLS,��������,����,����,����,ASN,ORG,�ӳ�(ms),�ٶ�(MB/s)
-103.160.204.10,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",186.41,77.91
-103.160.204.11,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",169.66,17.59
-103.160.204.121,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",170.1,16.13
-103.160.204.15,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",193.8,44.08
-103.160.204.246,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",191.33,16.14
-103.160.204.3,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",186.1,80.39
-103.160.204.4,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195.41,20.8
-103.160.204.5,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",196.01,19.54
-103.160.204.6,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",170.74,35.61
-103.160.204.7,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",192.24,17.79
-103.160.204.8,443,TRUE,??���,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",169.09,56
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+162.159.130.250,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",56.76,67.41
+162.159.128.185,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.67,58.54
+162.159.143.111,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.89,56.46
+162.159.133.49,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.43,54.08
+162.159.142.28,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.98,52.66
+162.159.138.129,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.63,51.95
+162.159.153.62,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.2,50
+104.19.35.57,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",55.26,48.26
+104.19.44.179,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",58.79,46.38
+104.19.40.110,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.128.249,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.130.97,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.138.129,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.152.178,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.140.64,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.142.151,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.129.142,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.143.124,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.15,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.3,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.8,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.246,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.249,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.6,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.3,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.15,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.4,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.10,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+103.160.204.8,443,TRUE,🇭🇰香港,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.247,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.249.8,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.11,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.3,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.252,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+194.53.53.5,443,TRUE,sg新加坡,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.17.233.41,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.16.62.175,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+172.66.43.234,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.12.30,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+172.66.41.47,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+172.66.42.209,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+172.67.158.73,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.156.69,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.19.163.106,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.17.247.116,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.165.54,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.17.201.98,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.16.52.63,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.17.233.67,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.159.179,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.26.12.193,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.158.238,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.18.236.192,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.19.203.68,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+104.19.34.139,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.137.35,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.129.128,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.141.164,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.128.197,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.130.166,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.153.171,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+172.67.15.126,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+162.159.133.45,443,TRUE,us美国,SG,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",57.84,45.47
+
